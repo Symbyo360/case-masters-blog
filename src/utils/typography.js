@@ -12,7 +12,7 @@ wordpress2013.overrideThemeStyles = () => {
     },
   }
 }
-console.log(wordpress2013)
+// console.log(wordpress2013)
 
 const typography = new Typography(wordpress2013)
 

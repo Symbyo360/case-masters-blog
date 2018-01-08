@@ -84,7 +84,6 @@ class PostTemplate extends Component {
     if (!post.id) {
       post.id = pathId;
     }
-    console.log(this.props)
     return (
       <div css={{ position: `relative` }}>
         <Helmet>
