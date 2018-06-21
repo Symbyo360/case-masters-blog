@@ -24,7 +24,8 @@
     "react-icons": "^2.2.5",
     "react-share": "^1.19.0",
     "react-twitter-widgets": "^1.4.0",
-    "typography-theme-wordpress-2013": "^0.15.10"
+    "typography-theme-wordpress-2013": "^0.15.10",
+    "snyk": "^1.83.0"
   },
   "keywords": [
     "gatsby"
@@ -38,9 +39,12 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "start": "gatsby serve",
-    "predeploy": "gatsby build --prefix-paths"
+    "predeploy": "gatsby build --prefix-paths",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
     "eslint": "^4.1.1"
-  }
+  },
+  "snyk": true
 }
