@@ -41,6 +41,6 @@
     "predeploy": "gatsby build --prefix-paths"
   },
   "devDependencies": {
-    "eslint": "^4.1.1"
+    "eslint": "^5.0.0"
   }
 }
