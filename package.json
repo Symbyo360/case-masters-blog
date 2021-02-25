@@ -5,7 +5,7 @@
   "version": "1.0.0-beta",
   "author": "Mohamed Azazy <azazy@symbyo.com>",
   "dependencies": {
-    "gatsby": "^1.9.45",
+    "gatsby": "^2.32.8",
     "gatsby-image": "^1.0.4",
     "gatsby-link": "^1.6.21",
     "gatsby-plugin-glamor": "^1.6.7",
@@ -18,7 +18,7 @@
     "gatsby-remark-external-links": "0.0.3",
     "gatsby-source-wordpress": "^2.0.0",
     "gatsby-transformer-sharp": "^1.6.5",
-    "lodash": "^4.16.4",
+    "lodash": "^4.17.21",
     "react-disqus-comments": "^1.0.3",
     "react-helmet": "^5.2.0",
     "react-icons": "^2.2.5",
