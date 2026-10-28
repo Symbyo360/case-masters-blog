@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": ">=22.23.4 <23"
+  },
   "name": "CasemastersBlog",
   "private": true,
   "description": "Casemasters blog is based on GatsbyJS and Wordpress.com' API",
